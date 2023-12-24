@@ -1,0 +1,43 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=0
+ro.allow.mock.location=1
+ro.debuggable=1
+ro.com.google.clientidbase=android-google
+keyguard.no_require_sim=true
+ro.build.selinux=1
+ro.config.notification_sound=Argon.ogg
+ro.config.alarm_alert=Hassium.ogg
+persist.sys.dun.override=0
+ro.storage_manager.enabled=true
+media.recorder.show_manufacturer_and_model=true
+ro.config.ringtone=Orion.ogg
+net.tethering.noprovisioning=true
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+dalvik.vm.usejit=true
+dalvik.vm.usejitprofiles=true
+dalvik.vm.dexopt.secondary=true
+dalvik.vm.appimageformat=lz4
+pm.dexopt.first-boot=extract
+pm.dexopt.boot=extract
+pm.dexopt.install=quicken
+pm.dexopt.bg-dexopt=speed-profile
+pm.dexopt.ab-ota=speed-profile
+pm.dexopt.inactive=verify
+pm.dexopt.shared=speed
+ro.device.cache_dir=/data/cache
+ro.zygote=zygote32
+tombstoned.max_tombstone_count=50
+debug.atrace.tags.enableflags=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Tue Oct 30 11:27:11 +08 2018
+ro.bootimage.build.date.utc=1540870031
+ro.bootimage.build.fingerprint=samsung/lineage_golden/golden:8.1.0/OPM2.171026.006.H1/80843a2a82:eng/test-keys
+persist.sys.usb.config=adb

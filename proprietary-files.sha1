@@ -1,0 +1,90 @@
+# All blobs are from "lineage_golden-eng 8.1.0 OPM2.171026.006.H1 80843a2a82 test-keys" and are pinned with sha1sum values
+
+# Audio
+vendor/lib/soundfx/libaudiopreprocessing.so|4d352cbdd319a8414fc4381236aef7abf6187a87
+
+# Audio-Hardware
+vendor/lib/hw/audio.primary.default.so|fa39f08141b3d7de70465e96fd4197c1fd7dd7b2
+vendor/lib/hw/audio.r_submix.default.so|12aee1eedea208d5ecce2f3a90fdb2c6bd3ca804
+vendor/lib/hw/audio.usb.default.so|87a7d176e1ad9311e683b9e73e9f52b12a86ac53
+
+# Bluetooth
+vendor/lib/hw/android.hardware.bluetooth@1.0-impl.so|392e933ac100c8c3dde522ed63cfd19411d41385
+vendor/lib/libbt-vendor.so|ed8bbd030f4f4e4d6f944dc73035b0cc801b86ad
+
+# Camera
+vendor/lib/hw/android.hardware.camera.provider@2.4-impl-legacy.so|91544a4ed324da385836c33854dcf5395d73ffe0
+
+# Configstore
+vendor/bin/hw/android.hardware.configstore@1.0-service|85a150d92ad86ec728b9520e3d847a9b5e22b979
+vendor/etc/init/android.hardware.configstore@1.0-service.rc|20037c3722e23de773cf76b890468cad74c965e2
+
+# DRM
+
+# DRM-Hardware
+vendor/lib/hw/android.hardware.drm@1.0-impl.so|bd772450feef07994b357e88f5a1c8d3d73ff213
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so|602a6b30cdb1b3669d2762c997ebc89de21a1dff
+
+# Display-Hardware
+vendor/lib/hw/android.hardware.graphics.composer@2.1-impl.so|f2c8fcbff2fbbce604154e8c08dde7d82259e2cd
+vendor/lib/hw/android.hardware.graphics.mapper@2.0-impl.so|47052a23012d4a0a9f7b464e6b24c3e46bbed319
+vendor/lib/hw/gralloc.default.so|fb78e749923622e237a2a1e8a49ae93b3e83ffa4
+vendor/lib/hw/gralloc.montblanc.so|0c27098689a6fca1e6c75d879ce1b5a5023276aa
+vendor/lib/hw/hwcomposer.montblanc.so|63ae005364fc146d1c1cc485634643031e19ba89
+
+# GPS
+vendor/lib/hw/android.hardware.gnss@1.0-impl.so|915dfcd4a3ae3c9f79811c4408a1c3531f8c8e59
+
+# GPS-Hardware
+
+# Graphics
+
+# Keymaster
+vendor/bin/hw/android.hardware.keymaster@3.0-service|0f7cfbaac89122afd80ed928d40ddc89394649e4
+vendor/etc/init/android.hardware.keymaster@3.0-service.rc|d9f0a3a06f403ba4daf0c76c8f0c079e8ea8acda
+vendor/lib/hw/android.hardware.keymaster@3.0-impl.so|e8eec3a367512b3923d0401a8f94e3fa539cd74c
+vendor/lib/libkeystore-engine-wifi-hidl.so|720bc025bff53b13934d37ac90e6649c211d7f89
+vendor/lib/libkeystore-wifi-hidl.so|707a142f799ca34350dd1c13396fdf23f5cc2568
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# Power-Hardware
+vendor/lib/hw/android.hardware.power@1.0-impl.so|931cec9640e118a39dbd5920c8d66085ec8c43ac
+vendor/lib/hw/power.default.so|2fc1d56959c67fdee31bc8a06e44d139b2d009b6
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# Vibrator
+vendor/lib/hw/android.hardware.vibrator@1.0-impl.so|dd04f52efbd9faa5d1017bc50887cf22d1619781
+vendor/lib/hw/vibrator.default.so|255d04820606a79e5001cc81f5bf9ecacb59cecc
+
+# WiFi
+vendor/bin/hw/android.hardware.wifi@1.0-service|2b4e8ce49b804d08a3dbea1b10792cfc7c0ec887
+vendor/etc/init/android.hardware.wifi@1.0-service.rc|71a525f2ff56ee8df465ddc1d51eb9e540afd8dd
+
+# Misc
+vendor/bin/hw/rild|cb2ea530abe59b82bcf06a4aa38ea8fadcb2ab97
+vendor/etc/init/rild.rc|269dbb5c6e32d392727aac708ae596f2111f2358
+vendor/lib/hw/copybit.montblanc.so|a2a553070ced2067c7838f3d04c7d1f569c2bde2
+vendor/lib/libhwminijail.so|d014fba511d0cb151824d019e088141f75eb234c
+vendor/lib/libmediacodecservice.so|bbc072625126c29c7c13eee363f5f54d66689578
+vendor/lib/libminijail_vendor.so|1c006e5413b0cb6d8da1c99d76fa1f376e5f957c
+vendor/lib/libselinux_vendor.so|0d85792d0be3b6462cd14366cddad425746f3759
+vendor/lib/libstelpcutils.so|f359b549cde582c8291d682b1dc28a5a5c8212d1
+vendor/lib/libwifi-hal.so|361a1c718a0a4027f4777a9505a8e065c13c39b3

@@ -1,0 +1,20 @@
+## lineage_golden-eng 8.1.0 OPM2.171026.006.H1 80843a2a82 test-keys
+- Manufacturer: samsung
+- Platform: 
+- Codename: golden
+- Brand: samsung
+- Flavor: lineage_golden-eng
+- Release Version: 8.1.0
+- Kernel Version: 
+- Id: OPM2.171026.006.H1
+- Incremental: 80843a2a82
+- Tags: test-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: en-US
+- Screen Density: 240
+- Fingerprint: samsung/lineage_golden/golden:8.1.0/OPM2.171026.006.H1/80843a2a82:eng/test-keys
+- OTA version: 
+- Branch: lineage_golden-eng-8.1.0-OPM2.171026.006.H1-80843a2a82-test-keys
+- Repo: samsung_golden_dump

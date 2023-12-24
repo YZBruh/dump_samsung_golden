@@ -1,0 +1,8 @@
+/vendor/lib/modules/j4fs.ko:
+/vendor/lib/modules/hwreg.ko:
+/vendor/lib/modules/dhd.ko:
+/vendor/lib/modules/bthid.ko:
+/vendor/lib/modules/rng-core.ko:
+/vendor/lib/modules/vpnclient.ko:
+/vendor/lib/modules/scsi_wait_scan.ko:
+/vendor/lib/modules/param.ko:
